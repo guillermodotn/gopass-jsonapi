@@ -64,4 +64,5 @@ func TestValidBrowsers(t *testing.T) {
 	}
 
 	assert.Equal(t, validBrowsers, ValidBrowsers())
+
 }
